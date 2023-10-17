@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Vize-Final-Ortalama-Durum\Vize-Final-Ortalama-Durum\bin\Debug\Vize-Final-Ortalama-Durum.exe.config
+C:\Users\User\Desktop\Vize-Final-Ortalama-Durum\Vize-Final-Ortalama-Durum\bin\Debug\Vize-Final-Ortalama-Durum.exe
+C:\Users\User\Desktop\Vize-Final-Ortalama-Durum\Vize-Final-Ortalama-Durum\bin\Debug\Vize-Final-Ortalama-Durum.pdb
+C:\Users\User\Desktop\Vize-Final-Ortalama-Durum\Vize-Final-Ortalama-Durum\obj\Debug\Vize-Final-Ortalama-Durum.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Vize-Final-Ortalama-Durum\Vize-Final-Ortalama-Durum\obj\Debug\Vize-Final-Ortalama-Durum.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Vize-Final-Ortalama-Durum\Vize-Final-Ortalama-Durum\obj\Debug\Vize_Final_Ortalama_Durum.Form1.resources
+C:\Users\User\Desktop\Vize-Final-Ortalama-Durum\Vize-Final-Ortalama-Durum\obj\Debug\Vize_Final_Ortalama_Durum.Properties.Resources.resources
+C:\Users\User\Desktop\Vize-Final-Ortalama-Durum\Vize-Final-Ortalama-Durum\obj\Debug\Vize-Final-Ortalama-Durum.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Vize-Final-Ortalama-Durum\Vize-Final-Ortalama-Durum\obj\Debug\Vize-Final-Ortalama-Durum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Vize-Final-Ortalama-Durum\Vize-Final-Ortalama-Durum\obj\Debug\Vize-Final-Ortalama-Durum.exe
+C:\Users\User\Desktop\Vize-Final-Ortalama-Durum\Vize-Final-Ortalama-Durum\obj\Debug\Vize-Final-Ortalama-Durum.pdb

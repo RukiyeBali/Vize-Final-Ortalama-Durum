@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vize-Final-Ortalama-Durum", "Vize-Final-Ortalama-Durum\Vize-Final-Ortalama-Durum.csproj", "{5780EE17-EA91-483E-A279-C4C6945D00EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5780EE17-EA91-483E-A279-C4C6945D00EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5780EE17-EA91-483E-A279-C4C6945D00EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5780EE17-EA91-483E-A279-C4C6945D00EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5780EE17-EA91-483E-A279-C4C6945D00EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20DF41A3-7369-477C-9782-F5F5D41225BE}
+	EndGlobalSection
+EndGlobal
